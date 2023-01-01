@@ -1,7 +1,7 @@
 {
-  "name": "ELECTRON4PHP",
+  "name": "ELECTRON_PHP",
   "version": "1.0.0",
-  "description": "An easiest way to use php in electron",
+  "description": "The most versatile and easiest way to host as well as convert PHP Web Apps and sites to Native windows Executable Applications.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -10,13 +10,16 @@
     "package-win": "electron-packager . electron-tutorial-app --overwrite --no-asar --platform=win32 --arch=ia32 --icon=icons/logo.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"Electron Tutorial App\"",
     "package-linux": "electron-packager . electron-tutorial-app --overwrite --no-asar --platform=linux --arch=x64 --icon=icons/logo.png --prune=true --out=release-builds"
   },
-  "repository": "https://github.com/AJ-TechSoul/ELECTRON-4-PHP",
+  "repository": "https://github.com/MIKEINTOSHSYSTEMS/electron_php",
   "keywords": [
-    "Electron",
+    "electron",
     "php",
-    "techsoul"
+    "MIKEINTOSH",
+    "SYSTEMS",
+    "MICHAEL",
+    "PHP Native Platform"
   ],
-  "author": "Ajay Kumar",
+  "author": "MIKEINTOSH SYSTEMS [AKA MICHAEL KIFLE TEFERRA]",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^13.1.0",
